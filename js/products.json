@@ -1,0 +1,29 @@
+[
+    {
+      "artc": 1,
+      "id": "periferico-01",
+      "name": "Auriculares HyperX Cloud",
+      "image":
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_30992_Auriculares_HyperX_Cloud_Revolver_7.1_3dd11be0-grn.jpg",
+      "category": {
+        "name": "Perifericos",
+        "id": "perifericos"
+      },
+      "price": "35380",
+      "stock": "12"
+    },
+  
+    {
+      "artc": 2,
+      "id": "monitor-01",
+      "name": "Monitor Samsung 19 A330N",
+      "image":
+        "https://compragamer.net/pga/imagenes_publicadas/compragamer_Imganen_general_33534_Monitor_Samsung_19__A330N_HDMI_825ccd95-grn.jpg",
+      "category": {
+        "name": "Monitores",
+        "id": "monitores"
+      },
+      "price": "48250",
+      "stock": "6"
+    }
+]
